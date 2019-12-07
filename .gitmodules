@@ -1,0 +1,3 @@
+[submodule "Project-Euler"]
+	path = Project-Euler
+	url = ./

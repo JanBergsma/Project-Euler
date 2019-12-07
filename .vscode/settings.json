@@ -1,0 +1,16 @@
+{
+    "python.testing.promptToConfigure": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "mocha.enabled": false,
+    "python.pythonPath": "/home/jan/.local/share/virtualenvs/project_euler-b6JHuxhI/bin/python",
+    "python.testing.pytestPath": "python3.7 -m pytest",
+    "python.analysis.memory.keepLibraryAst": true,
+    "python.analysis.memory.keepLibraryLocalVariables": true,
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleArgs": [
+        "--ignore=E701,W504"
+    ],
+    "python.linting.pycodestyleEnabled": true,
+}
