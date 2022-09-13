@@ -97,5 +97,6 @@ def main(speed_test=False):
         )
     )
 
+
 if __name__ == "__main__":
     main(speed_test=True)
